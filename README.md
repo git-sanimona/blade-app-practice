@@ -21,3 +21,4 @@ COACHTECH 教材 Tutorial 9-2「Bladeテンプレート ハンズオン演習」
 ## 動作確認
 
 アクセスして動作確認　http://localhost/products
+<img width="711" height="819" alt="Image" src="https://github.com/user-attachments/assets/fa9a9963-3f2d-4cdb-b33c-97f70f206e06" />
